@@ -5,5 +5,5 @@ This repository hosts the python codes (jupyter notebooks) to perform explorator
 ## Learning Outcomes
 1. Inspecting Data with Pandas
 2. Aggregating Data with Pandas
-3. Visualizing Data with Matplotlib
-4. Presenting Data
+3. Presenting Data with Matplotlib
+4. Visualizing Data 
